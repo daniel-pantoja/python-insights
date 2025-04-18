@@ -43,3 +43,6 @@ O arquivo cancelamentos_sample.csvestá incluído no repositório.
 jupyter notebook
 ```
 Abra o arquivo inicial.ipynbe execute as células para visualizar a análise.
+
+## Status do projeto
+:heavy_check_mark: Aplicação finalizada.
