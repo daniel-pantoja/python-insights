@@ -9,6 +9,12 @@ Análise de Dados
 Este projeto tem como objetivo analisar dados de cancelamento de clientes de uma empresa com mais de 800 mil clientes. A análise busca entender os principais motivos pelos quais os clientes cancelam seus serviços e identificar ações eficientes para reduzir esses cancelamentos. Utilizando técnicas de ciência de dados, este projeto fornece insights valiosos que podem ajudar na retenção de clientes.
 
 ## Tecnologias Utilizadas
+- Visual Studio Code (VS Code): Editor de código fonte utilizado para desenvolvimento
+- Python: Linguagem de programação principal utilizada para manipulação e análise de dados.
+- Jupyter Notebook: Ambiente interativo para desenvolvimento e execução de código Python.
+- Pandas: Biblioteca para manipulação de dados e análise.
+- NumPy: Biblioteca para computação numérica.
+- Plotly: Biblioteca para criação de gráficos interativos e visualizações de dados.
 
 ## Ferramentas
 
