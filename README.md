@@ -23,3 +23,23 @@ Foi instalado a extensão Jupyter no <a href = "https://code.visualstudio.com/do
 Foi instalado as bibliotecas pandas e plotly, basta abrir o terminal e escrever pip install pandas plotly
 
 ## Rodando o Projeto
+
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/daniel-pantoja/python-insights.git
+   cd python-insights
+
+2. **Instale as dependências**:
+É necessário ter o Python instalado. Utilize o gerenciador de pacotes pippara instalar as bibliotecas que desejar:
+```bash
+pip install pandas numpy plotly
+```
+
+3. **Baixe a base de dados**:
+O arquivo cancelamentos_sample.csvestá incluído no repositório.
+
+4. **Execute o Jupyter Notebook**:
+```bash
+jupyter notebook
+```
+Abra o arquivo inicial.ipynbe execute as células para visualizar a análise.
