@@ -5,7 +5,6 @@
 Análise de Dados 
 
 ## Introdução
-
 Este projeto tem como objetivo analisar dados de cancelamento de clientes de uma empresa com mais de 800 mil clientes. A análise busca entender os principais motivos pelos quais os clientes cancelam seus serviços e identificar ações eficientes para reduzir esses cancelamentos. Utilizando técnicas de ciência de dados, este projeto fornece insights valiosos que podem ajudar na retenção de clientes.
 
 ## Tecnologias Utilizadas
@@ -17,5 +16,10 @@ Este projeto tem como objetivo analisar dados de cancelamento de clientes de uma
 - Plotly: Biblioteca para criação de gráficos interativos e visualizações de dados.
 
 ## Ferramentas
+A linguagem <a href= "https://www.python.org/downloads/" target="blank" > Python </a> na versão 3.13.2
+
+Foi instalado a extensão Jupyter no <a href = "https://code.visualstudio.com/download" target="_blank" > VS Code </a>.
+
+Foi instalado as bibliotecas pandas e plotly, basta abrir o terminal e escrever pip install pandas plotly
 
 ## Rodando o Projeto
