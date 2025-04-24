@@ -14,6 +14,7 @@ Este projeto tem como objetivo analisar dados de cancelamento de clientes de uma
 - Pandas: Biblioteca para manipulação de dados e análise.
 - NumPy: Biblioteca para computação numérica.
 - Plotly: Biblioteca para criação de gráficos interativos e visualizações de dados.
+- CSV (usado para a base de dados)
 
 ## Ferramentas
 A linguagem <a href= "https://www.python.org/downloads/" target="blank" > Python </a> na versão 3.13.2
